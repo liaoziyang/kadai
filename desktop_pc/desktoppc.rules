@@ -1,0 +1,7 @@
+id="See5/C5.0 2.07 GPL Edition 2017-06-26"
+entries="1"
+rules="2" default="0"
+conds="1" cover="3" ok="2" lift="3" class="1"
+type="2" att="ssd" cut="128" result=">"
+conds="1" cover="7" ok="7" lift="1.11111" class="0"
+type="2" att="ssd" cut="128" result="<"

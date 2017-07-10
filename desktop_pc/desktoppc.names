@@ -1,0 +1,12 @@
+| POPULAR DESKTOP PC DATABASE ATTRIBUTES
+
+popular.                            | popular, non-popular classes
+
+maker:                  mouse, Dell, Dospara, HP, FUJITSU, Lenovo, AUAS, NEC.
+cpu:                    i3, i5, i7, Celeron, AMD.
+memory:                 4, 8, 16.   | GB
+storage:                continuous. | GB
+ssd:                    continuous. | GB
+display:                0, 1.
+
+popular:                1, 0.
